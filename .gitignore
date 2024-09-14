@@ -1,0 +1,4 @@
+node_modules
+node_modules
+.next
+echo ".next/cache/webpack/client-development/0.pack" >> .gitignore
